@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hindustani</string>
+    <string name="number">Numbers</string>
+    <string name="family">Family</string>
+    <string name="phrases">Phrases</string>
+    <string name="colors">Colors</string>
+    <string name="hindi_num">Hindi number</string>
+    <string name="english_num">English number</string>
+</resources>
